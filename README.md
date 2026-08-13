@@ -1,6 +1,6 @@
 # Essay
 
-This repository contains the essay as a PDF.
+This repository contains an essay about the spectral theorem in "classic" quantum mechanics.
 
 **Author:** David Diessel
 **Year:** 2026
